@@ -31,12 +31,3 @@
 | MongoDB | PostgreSQL | Redis | Kafka |
 |---------|-------------|--------|--------|
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white) |
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whyankush07&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=whyankush07&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyankush07&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=whyankush07&icon=0&color=0)](https://visitcount.itsvg.in)
