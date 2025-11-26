@@ -2,29 +2,8 @@
 ### Full Stack Developer • Content Creator •  Calisthenics Athlete
 
 <div align="center">
-  <img style="border-radius:25px;" src="https://whyankush.wtf/imagine-win.jpg" width="70%" alt="Imagine Win Banner">
+  <img src="https://github.com/whyankush07/whyankush07/raw/main/Ankush_AI_Image.png" width="70%" alt="Ankush">
 </div>
-
----
-
-# 🔥 About Me
-
-I’m Ankush — a developer, content creator, and athlete who prefers building things that actually matter and guiding people who actually want to grow.
-
-- 🧠 **Mentor & Educator** — I teach **Full Stack Development**, **Cloud Computing**, and career roadmaps for students who feel lost but want real direction. Everything I explain is backed by industry experience, not recycled theory.  
-- 🎥 **Content Creator** — I break down tech, internships, hackathons, and career growth for the 18–24 age group. My reels hit millions because they’re simple, practical, and brutally honest.  
-- 👨‍💻 **Builder & Agency Owner** — I’ve worked with startups, scaled apps that actually have users, and now I’m building **Unidex**, a lean software team that ships **production-grade full stack and cloud-native products**.  
-- 🏋️‍♂️ **Calisthenics + Powerlifting Athlete** — Muscle-ups, handstands, heavy deadlifts, controlled aggression, clean discipline. Training keeps my mind sharp and my character grounded.  
-- 📣 **Public Speaker** — I like being on stage, breaking concepts down for large groups, and pitching ideas with clarity and confidence.  
-- 🎯 **Mission:** Help Tier 3 students build clarity, confidence, and high-income skills through content, mentorship, and systems that actually change their trajectory.  
-- 🌌 **Also into:** Philosophy, neuroscience, human behavior, ambitious work, late-night depth, and building myself like a long-term project.
-
----
-
-# 🚀 What I’m Working On
-
-- 🏗️ Scaling **Unidex**, my development agency, to deliver fast, reliable, product-quality builds for founders and early-stage startups.  
-- 📈 Growing my Instagram to **50k+ students**, focusing on reels that deliver value + conviction.  
 
 ---
 
