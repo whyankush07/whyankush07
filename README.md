@@ -2,7 +2,7 @@
 ### Full Stack Developer • Content Creator •  Calisthenics Athlete
 
 <div align="center">
-  <img src="https://whyankush.wtf/imagine-win.jpg" width="70%" alt="Imagine Win Banner">
+  <img style="border-radius:25px;" src="https://whyankush.wtf/imagine-win.jpg" width="70%" alt="Imagine Win Banner">
 </div>
 
 ---
