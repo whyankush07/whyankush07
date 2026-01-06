@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ankush  
 ### Full Stack Developer • Content Creator •  Calisthenics Athlete
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/whyankush07/whyankush07/raw/main/Ankush_AI_Image.png" width="70%" alt="Ankush">
-</div>
+</div> -->
 
 ---
 
