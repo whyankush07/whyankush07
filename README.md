@@ -7,7 +7,7 @@
 
 <p>📧 Available at <a href="mailto:ankushsingh.dev@gmail.com">ankushsingh.dev@gmail.com</a></p><br>
 <p>📸 Watch my work on Instagram: <a href="https://www.instagram.com/howankush07">@howankush07</a></p>
-<p>📸 If you're a student, try <a href="https://unidash.whyankush.wtf/">Unidash</a></p>
+<p>🧑‍💻 If you're a student, try <a href="https://unidash.whyankush.wtf/">Unidash</a></p>
 
 ---
 
