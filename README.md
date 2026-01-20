@@ -5,8 +5,9 @@
 <h1 align="center">Hi, I'm Ankush</h1>
 <h3 align="center"> I ❤️ my 3Cs (Code, Camera and Calisthenics)</h3>
 
-Available at [ankushsingh.dev@gmail.com](mailto:ankushsingh.dev@gmail.com)
-Watch my work at insta:[@howankush07](https://www.instagram.com/howankush07)
+<sub>📧 Available at <a href="mailto:ankushsingh.dev@gmail.com">ankushsingh.dev@gmail.com</a></sub><br>
+<sub>📸 Watch my work on Instagram: <a href="https://www.instagram.com/howankush07">@howankush07</a></sub>
+
 ---
 
 ## 🌐 Connect with Me
